@@ -1,7 +1,13 @@
-<h2 align="left">Hi 👋! My name is Rizza and I'm a Frontend Developer, from Philippines.</h2>
+<!-- 🖼️ Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mirai4chann/Mirai4chann/main/gura1.jpg" alt="Banner" width="100%" height="250" />
+</p>
+
+<h2 align="left">Hi 👋! My name is Rizza and I'm a Frontend Developer from the Philippines.</h2>
 
 ###
 
+<!-- 📊 GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mirai4chann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mirai4chann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,10 +15,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlsOW9tbWZ2c3oxeHJmYXR5Z2tuNnE0N2Y1YTI0Zmc5d3IzdnUzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif"  />
+<!-- 🎬 Right-side GIF -->
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlsOW9tbWZ2c3oxeHJmYXR5Z2tuNnE0N2Y1YTI0Zmc5d3IzdnUzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif" alt="coding gif" />
 
 ###
 
+<!-- 💻 Tech Stack -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +45,7 @@
 
 ###
 
+<!-- 🌐 Social Links -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -49,6 +58,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mirai4chann/Mirai4chann/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mirai4chann/Mirai4chann/output/snake.svg" alt="Snake animation" />
+</p>
